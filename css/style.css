@@ -7,11 +7,6 @@
   --text-white-dimmed: rgba(255, 255, 255, 0.8);
 }
 
-<<<<<<< HEAD
-=======
-
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 * {
   margin: 0;
   padding: 0;
@@ -27,23 +22,8 @@
   padding: 15px 0px;
   position: fixed;
   z-index: 1;
-<<<<<<< HEAD
 }
 
-=======
-  
-}
-
-.nav ul li a {
-  color: rgba(255, 255, 255, 0.8);
-}
-
-.nav ul li a:hover {
-  color: aqua;
-}
-
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 .nav {
   display: flex;
   align-items: center;
@@ -53,7 +33,6 @@
   margin: auto;
 }
 
-<<<<<<< HEAD
 .nav .menu-items {
   display: flex;
   list-style: none;
@@ -64,17 +43,10 @@
   list-style: none;
   display: inline-block;
   padding: 15px;
-=======
-.nav ul li {
-  list-style: none;
-  display: inline-block;
-  margin-left: 25px;
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
   font-size: 18px;
   font-weight: 500;
 }
 
-<<<<<<< HEAD
 .nav ul li a {
   color: rgba(255, 255, 255, 0.8);
 }
@@ -90,8 +62,6 @@
   margin: 10px;
 }
 
-=======
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 .logo p {
   font-family: Ondine;
   font-size: 35px;
@@ -130,11 +100,7 @@
 .description {
   font-weight: 400;
   font-size: 25px;
-<<<<<<< HEAD
   padding-right: 150px;
-=======
-  padding-right: 250px;
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 }
 
 .hero-image {
@@ -160,20 +126,12 @@
   border: 2px solid aqua;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 .button a {
   color: inherit;
   padding: 10px 15px;
 }
 
-<<<<<<< HEAD
 .button a:hover {
-=======
-.button a:hover{
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
   color: inherit;
 }
 /* About Section Styles */
@@ -267,17 +225,9 @@
   font-weight: 700;
   margin-top: 50px;
   margin-bottom: 50px;
-<<<<<<< HEAD
 }
 .services .container .services-title h5 {
   font-size: 18px;
-=======
-
-}
-.services .container .services-title h5 {
-  font-size: 18px;
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 }
 
 .services-cards {
@@ -345,10 +295,6 @@
   font-weight: 700;
   margin-top: 50px;
   margin-bottom: 50px;
-<<<<<<< HEAD
-=======
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 }
 .projects .container .projects-title h5 {
   font-size: 18px;
@@ -357,27 +303,16 @@
 .projects .p-container .projects-box {
   display: grid;
   grid-template-columns: 1fr 1fr 1fr;
-<<<<<<< HEAD
 }
 
 .projects .p-container .projects-box .p-card {
   position: relative;
   align-self: center;
   justify-self: center;
-=======
-  
-}
-
-.projects .p-container .projects-box .p-card{
-  position: relative;
-  align-self: center;
-  justify-self:center;
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
   color: white;
   text-align: center;
   padding: 15px;
 }
-<<<<<<< HEAD
 
 .projects .p-container .projects-box .p-card:hover {
   border: 2px solid white;
@@ -385,29 +320,16 @@
   transition-delay: 0.5s ease;
 }
 
-=======
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 .projects .p-container .projects-box .p-card img {
   width: 250px;
   height: 250px;
   object-fit: cover;
 }
-<<<<<<< HEAD
 
 .projects .p-container .projects-box .p-card .project-name {
   padding-top: 20px;
 }
 
-=======
-.projects .p-container .projects-box .p-card .project-name {
- 
-}
-
-
-
-
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 /* Testimonials Section Styles */
 .testimonials {
   background: var(--primary-color-variant);
@@ -429,19 +351,11 @@
   font-weight: 700;
   margin-top: 50px;
   margin-bottom: 50px;
-<<<<<<< HEAD
-=======
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 }
 .testimonials .container .test-title h5 {
   font-size: 18px;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 .testimonials .container .test-boxes {
   display: flex;
   flex-direction: row;
@@ -450,10 +364,6 @@
   margin-bottom: 30px;
 }
 
-<<<<<<< HEAD
-=======
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 .testimonials .container .test-boxes .test-box {
   display: flex;
   flex-direction: column;
@@ -464,18 +374,10 @@
   border-radius: 30px;
 }
 
-<<<<<<< HEAD
 .testimonials .container .test-boxes .test-box .test-person {
   display: flex;
   flex-direction: row;
   align-items: center;
-=======
-
-.testimonials .container .test-boxes .test-box .test-person {
-  display: flex;
-  flex-direction: row;
-  align-items: center;  
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
   justify-items: flex-start;
   margin-left: 0;
   margin-top: 25px;
@@ -487,10 +389,6 @@
   object-fit: cover;
   border-radius: 50%;
   margin-right: 20px;
-<<<<<<< HEAD
-=======
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 }
 
 /* Contact Section Styles */
@@ -503,10 +401,6 @@
   display: flex;
   width: 100%;
   flex-direction: column;
-<<<<<<< HEAD
-=======
-  
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 }
 
 .contact .container .contact-title {
@@ -519,17 +413,9 @@
   font-weight: 700;
   margin-top: 50px;
   margin-bottom: 50px;
-<<<<<<< HEAD
 }
 .contact .container .contact-title h5 {
   font-size: 18px;
-=======
-
-}
-.contact .container .contact-title h5 {
-  font-size: 18px;
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 }
 .contact .box {
   display: flex;
@@ -543,11 +429,7 @@
   width: 350px;
   margin: 20px;
   display: block;
-<<<<<<< HEAD
   border-right: 2px solid rgba(51, 18, 18, 0.522);
-=======
-  border-right: 2px solid rgba(51, 18, 18, 0.522);black;
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 }
 
 .contact .box .info h2 {
@@ -640,7 +522,6 @@ textarea {
 .btn {
   display: flex;
   justify-content: flex-end;
-<<<<<<< HEAD
 }
 
 /* Footer Section Styles */
@@ -649,41 +530,18 @@ textarea {
 }
 
 .footer .container {
-=======
-  
-}
-
-
-/* Footer Section Styles */
-.footer{
-  background: #1e0909;
-}
-
-.footer .container{
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
   display: flex;
   flex-direction: column;
   justify-content: space-around;
   padding-bottom: 50px;
 }
 
-<<<<<<< HEAD
 .footer .container ul li {
   list-style: none;
   display: inline-block;
   padding-left: 25px;
 }
 
-=======
-
-.footer .container ul li{
-list-style: none;
-display: inline-block;
-padding-left: 25px;
-}
-
-
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
 .footer .container ul li span {
   font-size: 30px;
   font-weight: 700;
@@ -693,11 +551,7 @@ padding-left: 25px;
 }
 
 .footer .container ul li a {
-<<<<<<< HEAD
   color: var(--text-white-dimmed);
-=======
-  color:var(--text-white-dimmed); 
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
   font-size: 20px;
 }
 
@@ -712,7 +566,6 @@ padding-left: 25px;
   color: white;
 }
 
-<<<<<<< HEAD
 /* Responsive Design */
 
 /* For Tablets */
@@ -800,28 +653,6 @@ padding-left: 25px;
     content: "\f00d";
   }
 
-=======
-
-
-
-
-
-
-
-
-
-
-
-
-/* Responsive Design */
-
-/* For Tablets */
-
-
-
-/* For Mobiles */
-@media screen and (max-width: 700px){
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
   .home .container {
     flex-direction: column;
   }
@@ -834,7 +665,6 @@ padding-left: 25px;
   .home .container .home-text {
     order: 2;
   }
-<<<<<<< HEAD
   .about .container {
     flex-direction: column;
   }
@@ -873,56 +703,12 @@ padding-left: 25px;
   .contact .box .info {
     border: none;
     padding-left: 0;
-=======
-.about .container {
-  flex-direction: column;
-}
-
-.about .about-text {
-  margin-left: 0;
-  margin-top: 35px;
-}
-.services .services-cards {
-  flex-direction: column;
-}
-
-.projects .p-container .projects-box {
-  grid-template-columns: 1fr;
-}
-
-
-.testimonials .container .test-boxes {
-  flex-direction: column;
-  
-}
-.testimonials .container .test-boxes .test-box {
-  width: 100%;
-  margin-bottom: 35px;
-}
-
-.contact .container .box {
-  flex-direction: column;
-}
-.contact .container .box .form {
-  width: 100%;
-}
-  
-.contact .box .form .inputs .box-input.first-row {
-    width: 100%;
-  }
-
-.contact .box .info{
-    border: none;
-    padding-left: 0;
- 
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
   }
   .footer .container ul {
     width: 100%;
     margin: 0;
     padding: 0;
   }
-<<<<<<< HEAD
   .footer .container ul li {
     margin: 2px;
     padding: 2px;
@@ -938,17 +724,3 @@ padding-left: 25px;
     display: none;
   }
 }
-=======
-
-  .footer .container ul li a{
- font-size: 16px;
-    margin: 5px;
-    padding: 0;
-  }
-  .footer .container ul li span {
-  display: none;
-  }
-  
-
-}
->>>>>>> e419f5e3e352ceef64169dc3f5b340466bdd3d70
