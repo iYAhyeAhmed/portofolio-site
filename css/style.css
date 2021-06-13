@@ -12,7 +12,7 @@
   padding: 0;
   box-sizing: border-box;
   text-decoration: none;
-  font-family: nunito;
+  font-family: "Nunito", sans-serif;
 }
 
 /* Header Style */
@@ -62,10 +62,9 @@
   margin: 10px;
 }
 
-.logo p {
-  font-family: Ondine;
-  font-size: 35px;
-  color: aliceblue;
+.logo img {
+  max-width: 70%;
+  max-height: 70%;
 }
 
 /* Home Section Styles */
